@@ -1,0 +1,7 @@
+root_path string \\DATACHEWER\shareZ\2020_01_01_KateyCapture\Converted
+work_path string D:\CalibrationData\CameraCalibration\2020_01_01_KateyCapture
+num_cams int 16
+num_single_calib_imgs int 120
+num_stereo_imgs int 10
+center_cam_idx int 0
+center_img_name string 00000

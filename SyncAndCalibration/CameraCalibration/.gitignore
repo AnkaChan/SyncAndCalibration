@@ -1,0 +1,11 @@
+#.gitignore
+__pycache__
+modules/__pycache__/
+modules/__pycache__/calibrator.cpython-37.pyc
+modules/__pycache__/parser.cpython-37.pyc
+modules/__pycache__/renderer.cpython-37.pyc
+build
+dist
+CameraCalibration.spec
+CameraCalibrationConsole.spec
+.idea
